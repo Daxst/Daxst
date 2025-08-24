@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, I'm Alex.</h1>
-  <h3>Passionate about privacy and security, Self-Taught. </h3>
+  <h3></h3>
 </div>
 
 <br>
