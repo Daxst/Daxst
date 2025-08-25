@@ -52,8 +52,8 @@ My journey in technology began in data management, where process optimization an
   <br>
   <p>
     <a href="https://www.linkedin.com/in/alexandruds/">
-      <img src="https://img.shields.io/badge/in AlxStoica-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:alexandruds@icloud.com">
-      <img src="https://img.shields.io/badge/-AlxStoica-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <a href="mailto:alexds@keemail.me">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
     </a>
