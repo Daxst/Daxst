@@ -18,6 +18,8 @@ My journey in technology began in data management, where process optimization an
 ## Learning
 
 - **Systems:** Linux
+- **Version Control:** Git & GitHub
+- **Infrastructure:** HomeLab Setup (virtualization, hardware)
 
 
 <br>
