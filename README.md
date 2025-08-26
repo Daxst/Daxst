@@ -33,7 +33,7 @@ My journey in technology began in data management, where process optimization an
 
   This project documents the implementation of a robust personal security model, designed to minimize the attack surface and regain control over one's own digital footprint. (Oct. 2024)
 
-- [Shift Scheduling System](https://github.com/AlxStoica/Shift-Scheduling-System)
+- [Shift Scheduling System](https://github.com/Daxst/Shift-Scheduling-System)
 
   Automated system for managing work shifts, designed to simplify organization and improve operational efficiency through data structuring and automation.(May 2024)
 
