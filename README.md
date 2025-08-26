@@ -27,7 +27,7 @@ My journey in technology began in data management, where process optimization an
 
 ## Projects
 
-- [Advanced Network Privacy & Control](https://github.com/AlxStoica/Secure-Residential-Network-Architecture)
+- [Network Privacy & Control](https://github.com/AlxStoica/Secure-Residential-Network-Architecture)
 
   This project's goal was to modernize a residential network infrastructure to improve security, performance, and scalability, moving from a basic provider-supplied setup to an advanced solution with full control. (Abr. 2025)
 
