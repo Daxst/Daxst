@@ -35,7 +35,8 @@ My journey in technology began in data management, where process optimization an
 
 - [Shift Scheduling System](https://github.com/Daxst/Shift-Scheduling-System)
 
-  Automated system for managing work shifts, designed to simplify organization and improve operational efficiency through data structuring and automation.(May 2024)
+  Automated system for managing work shifts, designed to simplify organization and improve operational efficiency through data structuring and automation.
+  (May 2024)
 
 <br>
 
