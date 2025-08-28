@@ -45,9 +45,18 @@ My journey in technology began in data management, where process optimization an
 
 ## Training & Certifications
 
-  [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/ZDVH4RFWRVB6) | [Google Data Analytics](https://coursera.org/share/273d71856651a38cf257f11c2494ecde) | [Excel Skills for Data](https://coursera.org/share/5d449590e3504e08f93add34861e6158)
-
-
+<div align="left">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/ZDVH4RFWRVB6" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=flat-square" alt="Google IT Support Badge">
+  </a>
+  <a href="https://coursera.org/share/273d71856651a38cf257f11c2494ecde" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=flat-square" alt="Google Data Analytics Badge">
+  </a>
+  <a href="https://coursera.org/share/5d449590e3504e08f93add34861e6158" target="_blank">
+    <img src="https://img.shields.io/badge/Excel%20Skills%20for%20Data-4285F4?style=flat-square" alt="Excel Skills for Data Badge">
+  </a>
+</div>
+ 
 <br><br>
 
 <div align="center">
