@@ -6,9 +6,9 @@
 
 ## About Me
 
-My curiosity for technology led me to explore the digital world. What started as a simple interest in IT fundamentals quickly transformed into a passion for privacy, security, and technological autonomy.
+My curiosity for technology led me to explore the digital world. What began as a simple interest in IT fundamentals, which sparked my curiosity for data, is where my interest evolved into a deep passion for privacy, security, and technological autonomy, pillars that I consider essential for safeguarding information in the digital age.
 
-As a self-taught professional, I apply what I learn in a hands-on way, focusing on data protection and secure infrastructure. My commitment is to keep growing in these fields, always seeking the most efficient and scalable way to solve technological challenges.
+As a self-taught professional, I practically apply what I learn, focusing on data protection and secure infrastructure. My commitment is to continue growing in these fields, always seeking the most efficient and scalable way to solve technological challenges.
 
 <br><br>
 
