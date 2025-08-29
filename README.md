@@ -1,19 +1,16 @@
 <div align="center">
-  <h1>Hello, I'm Alex.</h1>
-  <h3></h3>
+  <h1>Hello, I'm Alex.<br>Welcome to my World of Data.</h1>
 </div>
 
-<br>
+<br><br>
 
 ## About Me
 
-My journey in technology began in data management, where process optimization and information integrity sparked my interest.
+My curiosity for technology led me to explore the digital world. What started as a simple interest in IT fundamentals quickly transformed into a passion for privacy, security, and technological autonomy.
 
- This focus has led me to explore the fundamentals of infrastructure and security, which I consider to be the pillars of any technological system.
+As a self-taught professional, I apply what I learn in a hands-on way, focusing on data protection and secure infrastructure. My commitment is to keep growing in these fields, always seeking the most efficient and scalable way to solve technological challenges.
 
- As a self-taught learner, my studies are oriented toward data protection, privacy, and technological autonomy. My commitment is to continue building my knowledge in a practical way, applying what I learn in projects that allow me to keep growing in these areas.
- 
-<br>
+<br><br>
 
 ## Learning
 
@@ -21,31 +18,24 @@ My journey in technology began in data management, where process optimization an
 - **Version Control:** Git & GitHub
 - **Infrastructure:** HomeLab Setup (virtualization, hardware)
 
-
-<br>
-
+<br><br>
 
 ## Projects
 
 - [Network Privacy & Control](https://github.com/AlxStoica/Secure-Residential-Network-Architecture)
-
-  This project's goal was to modernize a residential network infrastructure to improve security, performance, and scalability, moving from a basic provider-supplied setup to an advanced solution with full control. (Abr. 2025)
+  - This project's goal was to modernize a residential network infrastructure to improve security, performance, and scalability, moving from a basic provider-supplied setup to an advanced solution with full control. (Abr. 2025)
 
 - [Personal Digital Security](https://github.com/AlxStoica/Personal-Digital-Security)
-
-  This project documents the implementation of a robust personal security model, designed to minimize the attack surface and regain control over one's own digital footprint. (Oct. 2024)
+  - This project documents the implementation of a robust personal security model, designed to minimize the attack surface and regain control over one's own digital footprint. (Oct. 2024)
 
 - [Shift Scheduling System](https://github.com/Daxst/Shift-Scheduling-System)
+  - Automated system for managing work shifts, designed to simplify organization and improve operational efficiency through data structuring and automation. (May 2024)
 
-  Automated system for managing work shifts, designed to simplify organization and improve operational efficiency through data structuring and automation.
-  (May 2024)
-
-<br>
-
+<br><br>
 
 ## Training & Certifications
 
-<div align="left">
+<div align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/ZDVH4RFWRVB6" target="_blank">
     <img src="https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=flat-square" alt="Google IT Support Badge">
   </a>
@@ -56,7 +46,7 @@ My journey in technology began in data management, where process optimization an
     <img src="https://img.shields.io/badge/Excel%20Skills%20for%20Data-4285F4?style=flat-square" alt="Excel Skills for Data Badge">
   </a>
 </div>
- 
+
 <br><br>
 
 <div align="center">
@@ -69,3 +59,5 @@ My journey in technology began in data management, where process optimization an
     <a href="mailto:alexds@keemail.me">
       <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
     </a>
+  </p>
+</div>
