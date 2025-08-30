@@ -32,7 +32,7 @@ As a self-taught professional, I practically apply what I learn, focusing on dat
   - Automated system for managing work shifts, designed to simplify organization and improve operational efficiency through data structuring and automation. (May 2024)
  
 - [Chocolate Bar Dashboard](https://github.com/Daxst/Chocolate-Bar-Dashboard)
-  - This project involves exploring the ranking of chocolate bars based on both product and age preference. It serves as the final project for a module on Data Visualization with Tableau by the UC Davis. Dataset from data.world. Feb. 2024 
+  - This project involves exploring the ranking of chocolate bars based on both product and age preference. It serves as the final project for a module on Data Visualization with Tableau by the UC Davis. Dataset from data.world. (Feb. 2024) 
 
 <br><br>
 
