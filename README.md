@@ -30,6 +30,9 @@ As a self-taught professional, I practically apply what I learn, focusing on dat
 
 - [Shift Scheduling System](https://github.com/Daxst/Shift-Scheduling-System)
   - Automated system for managing work shifts, designed to simplify organization and improve operational efficiency through data structuring and automation. (May 2024)
+ 
+- [Chocolate Bar Dashboard](https://github.com/Daxst/Chocolate-Bar-Dashboard)
+  - This project involves exploring the ranking of chocolate bars based on both product and age preference. It serves as the final project for a module on Data Visualization with Tableau by the UC Davis. Dataset from data.world. Feb. 2024 
 
 <br><br>
 
@@ -44,6 +47,9 @@ As a self-taught professional, I practically apply what I learn, focusing on dat
   </a>
   <a href="https://coursera.org/share/5d449590e3504e08f93add34861e6158" target="_blank">
     <img src="https://img.shields.io/badge/Excel%20Skills%20for%20Data-4285F4?style=flat-square" alt="Excel Skills for Data Badge">
+  </a>
+   <a href="https://coursera.org/share/3f7b762e84f7e0dfe3df91fa33ebb406" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau%20Fundamentals-4285F4?style=flat-square" alt="Tableau Fundamentals Badge">
   </a>
 </div>
 
