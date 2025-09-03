@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Alex.<br>Welcome to my World of Data.</h1>
+  <h1>Hello, I'm Daxst.<br>Welcome to my World of Data.</h1>
 </div>
 
 <br><br>
@@ -8,7 +8,7 @@
 
 My curiosity for technology led me to explore the digital world. What began as a simple interest in IT fundamentals, which sparked my curiosity for data, is where my interest evolved into a deep passion for privacy, security, and technological autonomy, pillars that I consider essential for safeguarding information in the digital age.
 
-As a self-taught professional, I practically apply what I learn, focusing on data protection and secure infrastructure. My commitment is to continue growing in these fields, always seeking the most efficient and scalable way to solve technological challenges.
+As a self-taught, I practically apply what I learn, focusing on data protection and secure infrastructure. My commitment is to continue growing in these fields, always seeking the most efficient and scalable way to solve technological challenges.
 
 <br><br>
 
