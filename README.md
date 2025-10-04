@@ -62,7 +62,7 @@ As a self-taught, I practically apply what I learn, focusing on data protection 
     <a href="https://www.linkedin.com/in/alexandruds/">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:alexds@keemail.me">
+    <a href="mailto:github@daxst.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
     </a>
   </p>
