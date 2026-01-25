@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>Hello, I'm Daxst.<br>Welcome to my World of Data.</h1>
+  <h1>Hello, I'm Daxst.<br>Welcome to my space.</h1>
 </div>
 
 <br><br>
 
 ## About Me
 
-My curiosity for technology led me to explore the digital world. What began as a simple interest in IT fundamentals, which sparked my curiosity for data, is where my interest evolved into a deep passion for privacy, security, and technological autonomy, pillars that I consider essential for safeguarding information in the digital age.
+My interest in technology began with IT fundamentals and later expanded into data analysis, privacy, and security. Over time, this path led me to focus on something essential to me: protecting information and maintaining control over the digital environment.
 
-As a self-taught, I practically apply what I learn, focusing on data protection and secure infrastructure. My commitment is to continue growing in these fields, always seeking the most efficient and scalable way to solve technological challenges.
+As a self‑taught learner, I work through hands‑on projects related to infrastructure, networking, and applied security. I enjoy building solutions that are clear, efficient, and easy to maintain, always aiming to strengthen my technical foundation and grow within the IT field.
 
 <br><br>
 
 ## Learning
 
 - **Systems:** Linux
-- **Version Control:** Git & GitHub
 - **Infrastructure:** HomeLab Setup (virtualization, hardware)
+- **Networking & Security:** segmentation, DNS filtering, VPN, hardening
 
 <br><br>
 
