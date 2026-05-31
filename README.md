@@ -6,9 +6,9 @@
 
 ## About Me
 
-My interest in technology began with IT fundamentals and later expanded into data analysis, privacy, and security. Over time, this path led me to focus on something essential to me: protecting information and maintaining control over the digital environment.
+My interest in technology began with basic IT fundamentals, and little by little I started exploring areas like data analysis, privacy, and security. Over time, I realized that what really interests me is understanding how information is protected and how to stay in control of what we do in the digital world.
 
-As a self‑taught learner, I work through hands‑on projects related to infrastructure, networking, and applied security. I enjoy building solutions that are clear, efficient, and easy to maintain, always aiming to strengthen my technical foundation and grow within the IT field.
+I learn on my own in a practical and consistent way. I work on personal projects related to infrastructure, networking, and applied security, always looking for clear, efficient, and easy‑to‑maintain solutions. My goal is to keep building a solid technical foundation and move forward step by step in the IT field.
 
 <br><br>
 
