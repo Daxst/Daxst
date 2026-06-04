@@ -6,11 +6,11 @@
 
 ## About Me
 
-My interest in technology began with basic IT fundamentals, and little by little I started exploring areas like data analysis, privacy, and security. Over time, I realized that what really interests me is understanding how information is protected and how to stay in control of what we do in the digital world.
+My interest in technology began with IT fundamentals and data analytics. From there, I decided to pivot my profile toward technical support and network connectivity.
 
-I learn on my own in a practical and consistent way. I work on personal projects related to infrastructure, networking, and applied security, always looking for clear, efficient, and easy‑to‑maintain solutions. My goal is to keep building a solid technical foundation and move forward step by step in the IT field.
+I take a hands-on approach through local labs, deploying systems, managing network environments, and creating clear, efficient, and easy-to-maintain solutions.
 
-<br><br>
+My goal is to continue building a solid technical foundation and advance step-by-step in the IT world.
 
 ## Learning
 
