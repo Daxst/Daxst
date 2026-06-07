@@ -6,11 +6,11 @@
 
 ## About Me
 
-My interest in technology began with IT fundamentals and data analytics. From there, I decided to pivot my profile toward technical support and network connectivity.
+ Professional with extensive experience in operational environments and logistics, focused on making the leap to the technology sector.
 
-I take a hands-on approach through local labs, deploying systems, managing network environments, and creating clear, efficient, and easy-to-maintain solutions.
+ My interest in technology began with IT fundamentals and data analysis. From there, I decided to orient my profile toward technical support and the technical part of infrastructure.
 
-My goal is to continue building a solid technical foundation and advance step-by-step in the IT world.
+ My goal is to continue building a solid technical foundation and advance step by step in the world of technology.
 
 ## Learning
 
