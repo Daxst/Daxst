@@ -6,11 +6,10 @@
 
 ## About Me
 
- Professional with extensive experience in operational environments and logistics, focused on making the leap to the technology sector.
 
- My interest in technology began with IT fundamentals and data analysis. From there, I decided to orient my profile toward technical support and the technical part of infrastructure.
+Self-taught professional holding the Google IT Support Certificate. I am passionate about technical support, networking, and systems administration—skills I actively apply in my own homelab (you can check out my network project in the Featured section).
 
- My goal is to continue building a solid technical foundation and advance step by step in the world of technology.
+After years of demonstrating responsibility, autonomy, and strong customer service across other professional sectors, I am now seeking my first opportunity as a Junior Help Desk / IT Support Technician to continue learning and helping users solve their technology issues.
 
 ## Learning
 
